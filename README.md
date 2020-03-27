@@ -6,7 +6,7 @@ The goal was to make the robot follow a sequence of points (follow a path).
 
 ## idea:
 
-- for each point in the path, make the robot go to the point using same method in project 1.
+- for each point in the path, make the robot go to the point using same method in [project 1](https://github.com/hasauino/project_1).
 - before the robot reaches the current point, switch to the next point.
 - Keep doing this until the path is done
 

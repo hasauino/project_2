@@ -34,7 +34,7 @@ The goal was to make the robot follow a sequence of points (follow a path).
 
 
 
-![](sinusoidal.gif)
+![](sin.gif)
 
 
 
